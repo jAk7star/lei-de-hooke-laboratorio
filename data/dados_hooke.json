@@ -1,0 +1,15 @@
+{
+  "experimento": "Lei de Hooke - Força vs Alongamento",
+  "descricao": "Dados experimentais coletados em laboratório de Física Experimental.",
+  "unidades": {
+    "alongamento": "metros (m)",
+    "forca": "Newton (N)"
+  },
+  "dados": [
+    {"ponto": 1, "alongamento_m": 0.020, "forca_N": 0.42},
+    {"ponto": 2, "alongamento_m": 0.040, "forca_N": 0.81},
+    {"ponto": 3, "alongamento_m": 0.060, "forca_N": 1.23},
+    {"ponto": 4, "alongamento_m": 0.080, "forca_N": 1.61},
+    {"ponto": 5, "alongamento_m": 0.100, "forca_N": 2.03}
+  ]
+}
