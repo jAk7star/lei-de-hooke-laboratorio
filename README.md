@@ -106,7 +106,3 @@ pip install -r requirements.txt
 python src/lei_hooke_regressao.py
 ```
 
----
-
-## 📜 Licença
-Este projeto é disponibilizado sob a licença MIT.
