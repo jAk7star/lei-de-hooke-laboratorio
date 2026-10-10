@@ -1,8 +1,8 @@
 # 🎯 Lei de Hooke - Determinação Experimental da Constante Elástica
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen.svg)]()
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](#)
+[![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen.svg)](#)
 
 Este repositório contém a análise experimental, o tratamento de dados e a regressão linear pelo Método dos Mínimos Quadrados (MMQ) para a verificação da **Lei de Hooke** ($F = k \cdot \Delta x$) com dados coletados em laboratório de Física Experimental.
 
@@ -109,4 +109,4 @@ python src/lei_hooke_regressao.py
 ---
 
 ## 📜 Licença
-Este projeto é disponibilizado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto é disponibilizado sob a licença MIT.
