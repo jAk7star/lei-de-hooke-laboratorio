@@ -92,7 +92,7 @@ lei-de-hooke-laboratorio/
 
 ### 1. Clonar o repositório e acessar a pasta
 ```bash
-git clone https://github.com/SEU-USUARIO/lei-de-hooke-laboratorio.git
+git clone https://github.com/jAk7star/lei-de-hooke-laboratorio.git
 cd lei-de-hooke-laboratorio
 ```
 
